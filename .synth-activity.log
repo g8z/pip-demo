@@ -23,3 +23,4 @@
 2021-08-10 style: format sources
 2021-08-18 fix: guard null reference
 2021-08-19 refactor: simplify module wiring
+2021-08-31 fix: patch edge case in config
