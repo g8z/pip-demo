@@ -25,3 +25,4 @@
 2021-08-19 refactor: simplify module wiring
 2021-08-31 fix: patch edge case in config
 2021-09-04 refactor: extract shared utility
+2021-09-05 chore: bump internal marker
