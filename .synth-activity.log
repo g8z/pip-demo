@@ -38,3 +38,4 @@
 2021-10-01 chore: sync local changes
 2021-10-02 chore: bump internal marker
 2021-10-04 chore: sync local changes
+2021-10-13 fix: guard null reference
