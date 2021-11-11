@@ -53,3 +53,4 @@
 2021-11-01 refactor: extract shared utility
 2021-11-06 docs: clarify setup steps
 2021-11-10 docs: clarify setup steps
+2021-11-10 refactor: simplify module wiring
