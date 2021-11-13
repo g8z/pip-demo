@@ -55,3 +55,4 @@
 2021-11-10 docs: clarify setup steps
 2021-11-10 refactor: simplify module wiring
 2021-11-12 style: format sources
+2021-11-12 test: add coverage for helper
