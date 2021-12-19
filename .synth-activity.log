@@ -75,3 +75,4 @@
 2021-12-10 chore: sync local changes
 2021-12-13 refactor: extract shared utility
 2021-12-17 test: add coverage for helper
+2021-12-18 fix: patch edge case in config
