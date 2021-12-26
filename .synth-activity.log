@@ -78,3 +78,4 @@
 2021-12-18 fix: patch edge case in config
 2021-12-20 test: add coverage for helper
 2021-12-22 fix: patch edge case in config
+2021-12-26 refactor: extract shared utility
