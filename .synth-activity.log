@@ -83,3 +83,4 @@
 2022-01-04 docs: update README notes
 2022-01-12 refactor: extract shared utility
 2022-01-14 test: add coverage for helper
+2022-01-15 build: adjust tooling scripts
