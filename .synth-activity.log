@@ -93,3 +93,4 @@
 2022-02-01 fix: handle empty input
 2022-02-02 chore: housekeeping
 2022-02-04 build: adjust tooling scripts
+2022-02-04 refactor: extract shared utility
