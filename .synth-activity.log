@@ -97,3 +97,4 @@
 2022-02-05 docs: note deployment caveat
 2022-02-08 fix: handle empty input
 2022-02-10 build: adjust tooling scripts
+2022-02-13 refactor: simplify module wiring
