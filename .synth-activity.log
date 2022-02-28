@@ -103,3 +103,4 @@
 2022-02-20 fix: patch edge case in config
 2022-02-24 fix: guard null reference
 2022-02-28 refactor: simplify module wiring
+2022-02-28 refactor: extract shared utility
