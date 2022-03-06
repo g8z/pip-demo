@@ -107,3 +107,4 @@
 2022-03-02 refactor: simplify module wiring
 2022-03-03 docs: update README notes
 2022-03-05 docs: clarify setup steps
+2022-03-06 fix: handle empty input
