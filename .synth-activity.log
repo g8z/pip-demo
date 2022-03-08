@@ -110,3 +110,4 @@
 2022-03-06 fix: handle empty input
 2022-03-06 chore: housekeeping
 2022-03-07 fix: handle empty input
+2022-03-07 refactor: extract shared utility
