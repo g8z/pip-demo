@@ -124,3 +124,4 @@
 2022-03-31 fix: patch edge case in config
 2022-04-05 chore: tidy project layout
 2022-04-08 refactor: simplify module wiring
+2022-04-08 fix: handle empty input
