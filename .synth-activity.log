@@ -131,3 +131,4 @@
 2022-04-13 refactor: simplify module wiring
 2022-04-14 fix: patch edge case in config
 2022-04-17 fix: patch edge case in config
+2022-04-17 chore: tidy project layout
