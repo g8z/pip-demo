@@ -137,3 +137,4 @@
 2022-04-23 style: format sources
 2022-04-24 docs: clarify setup steps
 2022-04-27 chore: housekeeping
+2022-04-28 test: add coverage for helper
