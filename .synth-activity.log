@@ -139,3 +139,4 @@
 2022-04-27 chore: housekeeping
 2022-04-28 test: add coverage for helper
 2022-04-28 docs: clarify setup steps
+2022-04-29 refactor: simplify module wiring
