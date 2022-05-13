@@ -146,3 +146,4 @@
 2022-05-07 chore: sync local changes
 2022-05-08 chore: bump internal marker
 2022-05-08 build: adjust tooling scripts
+2022-05-13 fix: guard null reference
