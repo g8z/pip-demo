@@ -151,3 +151,4 @@
 2022-05-28 fix: guard null reference
 2022-05-29 chore: bump internal marker
 2022-05-30 chore: tidy project layout
+2022-05-31 fix: handle empty input
