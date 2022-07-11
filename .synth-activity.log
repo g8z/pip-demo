@@ -167,3 +167,4 @@
 2022-07-04 chore: tidy project layout
 2022-07-05 docs: clarify setup steps
 2022-07-08 fix: handle empty input
+2022-07-11 refactor: simplify module wiring
