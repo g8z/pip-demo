@@ -176,3 +176,4 @@
 2022-07-23 refactor: extract shared utility
 2022-07-23 fix: handle empty input
 2022-07-24 style: format sources
+2022-07-26 fix: guard null reference
