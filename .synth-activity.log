@@ -179,3 +179,4 @@
 2022-07-26 fix: guard null reference
 2022-07-26 fix: handle empty input
 2022-07-27 fix: guard null reference
+2022-07-27 refactor: extract shared utility
