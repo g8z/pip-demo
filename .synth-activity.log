@@ -193,3 +193,4 @@
 2022-08-26 docs: note deployment caveat
 2022-08-26 chore: bump internal marker
 2022-08-26 docs: clarify setup steps
+2022-08-29 fix: handle empty input
