@@ -196,3 +196,4 @@
 2022-08-29 fix: handle empty input
 2022-08-29 chore: sync local changes
 2022-09-01 chore: tidy project layout
+2022-09-05 build: adjust tooling scripts
