@@ -199,3 +199,4 @@
 2022-09-05 build: adjust tooling scripts
 2022-09-06 chore: housekeeping
 2022-09-07 test: add coverage for helper
+2022-09-10 refactor: extract shared utility
