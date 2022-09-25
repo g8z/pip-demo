@@ -208,3 +208,4 @@
 2022-09-19 fix: handle empty input
 2022-09-20 test: add coverage for helper
 2022-09-25 test: add coverage for helper
+2022-09-25 docs: note deployment caveat
