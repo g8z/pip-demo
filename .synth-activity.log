@@ -213,3 +213,4 @@
 2022-09-27 test: add coverage for helper
 2022-09-28 chore: tidy project layout
 2022-09-29 style: format sources
+2022-09-29 refactor: simplify module wiring
