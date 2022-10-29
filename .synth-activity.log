@@ -224,3 +224,4 @@
 2022-10-20 build: adjust tooling scripts
 2022-10-21 chore: housekeeping
 2022-10-26 refactor: simplify module wiring
+2022-10-29 fix: guard null reference
