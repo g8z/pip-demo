@@ -226,3 +226,4 @@
 2022-10-26 refactor: simplify module wiring
 2022-10-29 fix: guard null reference
 2022-10-29 style: format sources
+2022-10-30 fix: guard null reference
