@@ -231,3 +231,4 @@
 2022-10-31 fix: patch edge case in config
 2022-11-02 fix: guard null reference
 2022-11-02 refactor: extract shared utility
+2022-11-06 fix: handle empty input
