@@ -241,3 +241,4 @@
 2022-11-21 chore: tidy project layout
 2022-11-23 chore: housekeeping
 2022-11-23 docs: clarify setup steps
+2022-11-26 fix: patch edge case in config
