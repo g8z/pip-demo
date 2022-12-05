@@ -245,3 +245,4 @@
 2022-11-28 docs: update README notes
 2022-11-28 fix: patch edge case in config
 2022-12-03 refactor: simplify module wiring
+2022-12-05 style: format sources
