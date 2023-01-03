@@ -253,3 +253,4 @@
 2022-12-23 docs: update README notes
 2022-12-24 docs: clarify setup steps
 2022-12-24 chore: bump internal marker
+2023-01-03 fix: guard null reference
