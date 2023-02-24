@@ -273,3 +273,4 @@
 2023-02-13 fix: patch edge case in config
 2023-02-17 build: adjust tooling scripts
 2023-02-17 refactor: simplify module wiring
+2023-02-24 docs: note deployment caveat
