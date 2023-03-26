@@ -285,3 +285,4 @@
 2023-03-21 style: format sources
 2023-03-23 style: format sources
 2023-03-25 refactor: extract shared utility
+2023-03-26 fix: guard null reference
