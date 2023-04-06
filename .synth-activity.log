@@ -291,3 +291,4 @@
 2023-04-05 style: format sources
 2023-04-05 docs: note deployment caveat
 2023-04-05 refactor: simplify module wiring
+2023-04-05 fix: patch edge case in config
