@@ -293,3 +293,4 @@
 2023-04-05 refactor: simplify module wiring
 2023-04-05 fix: patch edge case in config
 2023-04-08 chore: sync local changes
+2023-04-08 chore: tidy project layout
