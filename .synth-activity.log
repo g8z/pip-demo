@@ -294,3 +294,4 @@
 2023-04-05 fix: patch edge case in config
 2023-04-08 chore: sync local changes
 2023-04-08 chore: tidy project layout
+2023-04-09 test: add coverage for helper
