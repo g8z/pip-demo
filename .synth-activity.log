@@ -299,3 +299,4 @@
 2023-04-19 docs: clarify setup steps
 2023-04-20 build: adjust tooling scripts
 2023-04-22 docs: update README notes
+2023-04-22 fix: guard null reference
