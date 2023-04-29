@@ -301,3 +301,4 @@
 2023-04-22 docs: update README notes
 2023-04-22 fix: guard null reference
 2023-04-25 refactor: simplify module wiring
+2023-04-29 chore: bump internal marker
