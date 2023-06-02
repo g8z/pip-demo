@@ -311,3 +311,4 @@
 2023-05-10 fix: handle empty input
 2023-05-21 chore: housekeeping
 2023-05-26 fix: patch edge case in config
+2023-06-01 docs: clarify setup steps
