@@ -313,3 +313,4 @@
 2023-05-26 fix: patch edge case in config
 2023-06-01 docs: clarify setup steps
 2023-06-02 chore: bump internal marker
+2023-06-03 test: add coverage for helper
