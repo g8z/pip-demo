@@ -319,3 +319,4 @@
 2023-06-06 chore: bump internal marker
 2023-06-12 chore: bump internal marker
 2023-06-14 build: adjust tooling scripts
+2023-06-15 fix: handle empty input
