@@ -331,3 +331,4 @@
 2023-07-11 docs: update README notes
 2023-07-12 fix: guard null reference
 2023-07-13 chore: tidy project layout
+2023-07-17 refactor: extract shared utility
