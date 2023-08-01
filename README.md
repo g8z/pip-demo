@@ -41,8 +41,6 @@ The main entry point of the application is the App component. This component  re
 
 1. `VideoPlayer`: This component displays a local video stream from a local file (`sample.mp4`) and provides a button to toggle Picture-in-Picture (PIP) mode for the video.
 
-2. `VideoStream`: This component initializes a WebRTC peer connection as an initiator and allows streaming the local webcam video to another peer. It also provides a button to toggle Picture-in-Picture (PIP) mode for the local video stream.
-
 ## VideoPlayer Component (`VideoPlayer.js`)
 
 The `VideoPlayer` component displays a video element with controls that play a local video file (`sample.mp4`). It provides functionality to enter and exit Picture-in-Picture (PIP) mode for the video stream.

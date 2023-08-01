@@ -24,15 +24,17 @@ const VideoPlayer = () => {
                 .then(() => {
                     // Set the state to indicate that PIP mode is enabled
                     setIsPipEnabled(true);
+                    alert("pip successful")
                 })
                 .catch((error) => {
                     console.error('Error while entering PIP:', error);
+                    alert("pip failed:", error);
                 });
         }
     };
 
     return (
-        <div style={{ width: '500px', height: '300px' }}>
+        <div>
             <h2>Local Video</h2>
             {/* Video element with a reference to the videoRef */}
             <video ref={videoRef} width="100%" height="100%" controls>

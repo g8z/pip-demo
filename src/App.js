@@ -4,16 +4,11 @@ import VideoStream from './VideoStream';
 function App() {
   return (
     <div className="container-fluid">
-      <header className="row" style={{ minHeight: "100vh", display: "flex", justifyContent: "center", alignItems: "center" }}>
+      <header className="row" style={{ minHeight: "100vh" }}>
         {/* uncomment this VideoPlayer to see the local file in PIP */}
-        <div className="col-md-6">
-          <VideoPlayer />
-        </div>
-        <div className="col-md-6">
-          <VideoStream />
-        </div>
+        <VideoPlayer />
       </header>
-    </div>
+    </div >
   );
 }
 
