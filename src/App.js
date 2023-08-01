@@ -1,5 +1,4 @@
 import VideoPlayer from './VideoPlayer';
-import VideoStream from './VideoStream';
 
 function App() {
   return (
