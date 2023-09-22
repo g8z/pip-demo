@@ -365,3 +365,4 @@
 2023-09-20 docs: update README notes
 2023-09-20 chore: housekeeping
 2023-09-22 chore: bump internal marker
+2023-09-22 fix: guard null reference
