@@ -377,3 +377,4 @@
 2023-10-10 test: add coverage for helper
 2023-10-18 docs: note deployment caveat
 2023-10-25 fix: guard null reference
+2023-11-01 fix: patch edge case in config
