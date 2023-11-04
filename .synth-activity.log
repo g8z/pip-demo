@@ -378,3 +378,4 @@
 2023-10-18 docs: note deployment caveat
 2023-10-25 fix: guard null reference
 2023-11-01 fix: patch edge case in config
+2023-11-04 chore: bump internal marker
