@@ -385,3 +385,4 @@
 2023-11-21 test: add coverage for helper
 2023-11-25 chore: tidy project layout
 2023-11-27 fix: handle empty input
+2023-12-01 docs: clarify setup steps
