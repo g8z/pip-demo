@@ -387,3 +387,4 @@
 2023-11-27 fix: handle empty input
 2023-12-01 docs: clarify setup steps
 2023-12-13 refactor: simplify module wiring
+2023-12-19 docs: note deployment caveat
