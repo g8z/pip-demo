@@ -406,3 +406,4 @@
 2024-01-17 docs: note deployment caveat
 2024-01-18 refactor: simplify module wiring
 2024-01-25 chore: housekeeping
+2024-02-06 fix: guard null reference
