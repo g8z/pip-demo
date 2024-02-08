@@ -407,3 +407,4 @@
 2024-01-18 refactor: simplify module wiring
 2024-01-25 chore: housekeeping
 2024-02-06 fix: guard null reference
+2024-02-07 build: adjust tooling scripts
