@@ -412,3 +412,4 @@
 2024-02-10 chore: housekeeping
 2024-02-11 docs: clarify setup steps
 2024-02-14 chore: bump internal marker
+2024-02-19 fix: guard null reference
