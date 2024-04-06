@@ -425,3 +425,4 @@
 2024-03-30 chore: sync local changes
 2024-03-30 style: format sources
 2024-04-04 build: adjust tooling scripts
+2024-04-06 fix: patch edge case in config
