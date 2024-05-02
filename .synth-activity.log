@@ -440,3 +440,4 @@
 2024-04-30 fix: handle empty input
 2024-04-30 fix: guard null reference
 2024-05-01 chore: tidy project layout
+2024-05-01 refactor: extract shared utility
