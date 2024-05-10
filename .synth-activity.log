@@ -444,3 +444,4 @@
 2024-05-02 style: format sources
 2024-05-04 chore: bump internal marker
 2024-05-07 test: add coverage for helper
+2024-05-10 refactor: simplify module wiring
