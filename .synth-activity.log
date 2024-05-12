@@ -445,3 +445,4 @@
 2024-05-04 chore: bump internal marker
 2024-05-07 test: add coverage for helper
 2024-05-10 refactor: simplify module wiring
+2024-05-12 test: add coverage for helper
