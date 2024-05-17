@@ -447,3 +447,4 @@
 2024-05-10 refactor: simplify module wiring
 2024-05-12 test: add coverage for helper
 2024-05-16 build: adjust tooling scripts
+2024-05-16 chore: bump internal marker
