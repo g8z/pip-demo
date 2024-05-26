@@ -449,3 +449,4 @@
 2024-05-16 build: adjust tooling scripts
 2024-05-16 chore: bump internal marker
 2024-05-20 style: format sources
+2024-05-26 fix: guard null reference
