@@ -452,3 +452,4 @@
 2024-05-26 fix: guard null reference
 2024-05-31 style: format sources
 2024-06-01 build: adjust tooling scripts
+2024-06-01 refactor: simplify module wiring
