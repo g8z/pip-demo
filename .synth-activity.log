@@ -455,3 +455,4 @@
 2024-06-01 refactor: simplify module wiring
 2024-06-01 docs: update README notes
 2024-06-03 chore: bump internal marker
+2024-06-05 test: add coverage for helper
