@@ -459,3 +459,4 @@
 2024-06-07 fix: patch edge case in config
 2024-06-07 build: adjust tooling scripts
 2024-06-11 style: format sources
+2024-06-12 fix: guard null reference
