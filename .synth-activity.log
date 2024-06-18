@@ -464,3 +464,4 @@
 2024-06-15 fix: guard null reference
 2024-06-16 test: add coverage for helper
 2024-06-16 fix: handle empty input
+2024-06-17 build: adjust tooling scripts
