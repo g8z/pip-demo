@@ -468,3 +468,4 @@
 2024-06-18 chore: housekeeping
 2024-06-20 test: add coverage for helper
 2024-06-24 fix: patch edge case in config
+2024-07-01 build: adjust tooling scripts
