@@ -481,3 +481,4 @@
 2024-08-12 fix: handle empty input
 2024-08-17 fix: guard null reference
 2024-08-20 docs: note deployment caveat
+2024-08-22 docs: update README notes
