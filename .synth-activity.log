@@ -489,3 +489,4 @@
 2024-09-04 test: add coverage for helper
 2024-09-09 refactor: simplify module wiring
 2024-09-11 chore: sync local changes
+2024-09-11 style: format sources
