@@ -494,3 +494,4 @@
 2024-09-13 fix: patch edge case in config
 2024-09-14 refactor: simplify module wiring
 2024-09-14 docs: clarify setup steps
+2024-09-16 chore: sync local changes
