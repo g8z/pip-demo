@@ -499,3 +499,4 @@
 2024-09-20 chore: sync local changes
 2024-09-21 fix: handle empty input
 2024-09-22 chore: bump internal marker
+2024-09-22 test: add coverage for helper
