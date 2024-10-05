@@ -507,3 +507,4 @@
 2024-10-02 fix: handle empty input
 2024-10-03 chore: bump internal marker
 2024-10-03 refactor: simplify module wiring
+2024-10-04 chore: tidy project layout
