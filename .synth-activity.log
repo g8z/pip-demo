@@ -510,3 +510,4 @@
 2024-10-04 chore: tidy project layout
 2024-10-04 fix: guard null reference
 2024-10-06 fix: patch edge case in config
+2024-10-07 chore: sync local changes
