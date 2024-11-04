@@ -519,3 +519,4 @@
 2024-10-31 fix: guard null reference
 2024-10-31 chore: tidy project layout
 2024-11-03 build: adjust tooling scripts
+2024-11-04 refactor: extract shared utility
