@@ -529,3 +529,4 @@
 2024-12-06 test: add coverage for helper
 2024-12-08 chore: sync local changes
 2024-12-10 docs: clarify setup steps
+2024-12-11 refactor: extract shared utility
