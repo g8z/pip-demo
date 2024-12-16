@@ -534,3 +534,4 @@
 2024-12-14 docs: note deployment caveat
 2024-12-15 chore: bump internal marker
 2024-12-16 chore: bump internal marker
+2024-12-16 fix: patch edge case in config
