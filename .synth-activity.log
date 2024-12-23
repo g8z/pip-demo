@@ -536,3 +536,4 @@
 2024-12-16 chore: bump internal marker
 2024-12-16 fix: patch edge case in config
 2024-12-16 test: add coverage for helper
+2024-12-23 refactor: extract shared utility
