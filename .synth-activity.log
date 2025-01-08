@@ -543,3 +543,4 @@
 2024-12-30 refactor: extract shared utility
 2024-12-31 chore: tidy project layout
 2025-01-03 docs: update README notes
+2025-01-08 refactor: simplify module wiring
