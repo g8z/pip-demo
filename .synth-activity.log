@@ -546,3 +546,4 @@
 2025-01-08 refactor: simplify module wiring
 2025-01-11 test: add coverage for helper
 2025-01-11 test: add coverage for helper
+2025-01-11 docs: note deployment caveat
