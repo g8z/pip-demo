@@ -548,3 +548,4 @@
 2025-01-11 test: add coverage for helper
 2025-01-11 docs: note deployment caveat
 2025-01-16 chore: tidy project layout
+2025-01-24 refactor: extract shared utility
