@@ -574,3 +574,4 @@
 2025-03-25 style: format sources
 2025-03-26 build: adjust tooling scripts
 2025-03-26 chore: housekeeping
+2025-03-27 test: add coverage for helper
