@@ -585,3 +585,4 @@
 2025-04-09 build: adjust tooling scripts
 2025-04-11 docs: update README notes
 2025-04-12 chore: sync local changes
+2025-04-12 refactor: extract shared utility
