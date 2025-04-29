@@ -591,3 +591,4 @@
 2025-04-21 style: format sources
 2025-04-23 fix: patch edge case in config
 2025-04-23 fix: guard null reference
+2025-04-28 fix: handle empty input
