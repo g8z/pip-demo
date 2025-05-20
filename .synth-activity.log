@@ -597,3 +597,4 @@
 2025-05-05 fix: guard null reference
 2025-05-09 refactor: extract shared utility
 2025-05-10 docs: clarify setup steps
+2025-05-20 fix: handle empty input
