@@ -603,3 +603,4 @@
 2025-06-01 fix: patch edge case in config
 2025-06-03 chore: housekeeping
 2025-06-06 fix: patch edge case in config
+2025-06-08 test: add coverage for helper
