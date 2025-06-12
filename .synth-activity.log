@@ -606,3 +606,4 @@
 2025-06-08 test: add coverage for helper
 2025-06-12 docs: note deployment caveat
 2025-06-12 fix: guard null reference
+2025-06-12 refactor: extract shared utility
