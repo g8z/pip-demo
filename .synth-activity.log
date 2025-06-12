@@ -605,3 +605,4 @@
 2025-06-06 fix: patch edge case in config
 2025-06-08 test: add coverage for helper
 2025-06-12 docs: note deployment caveat
+2025-06-12 fix: guard null reference
