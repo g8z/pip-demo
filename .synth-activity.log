@@ -614,3 +614,4 @@
 2025-06-29 chore: tidy project layout
 2025-07-08 chore: bump internal marker
 2025-07-09 chore: bump internal marker
+2025-07-10 fix: handle empty input
