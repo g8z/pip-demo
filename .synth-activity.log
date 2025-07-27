@@ -619,3 +619,4 @@
 2025-07-14 style: format sources
 2025-07-19 chore: tidy project layout
 2025-07-22 fix: guard null reference
+2025-07-27 build: adjust tooling scripts
