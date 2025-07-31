@@ -622,3 +622,4 @@
 2025-07-27 build: adjust tooling scripts
 2025-07-28 build: adjust tooling scripts
 2025-07-29 build: adjust tooling scripts
+2025-07-31 fix: handle empty input
