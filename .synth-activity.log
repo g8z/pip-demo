@@ -630,3 +630,4 @@
 2025-08-06 chore: housekeeping
 2025-08-07 docs: note deployment caveat
 2025-08-16 refactor: simplify module wiring
+2025-08-18 fix: patch edge case in config
