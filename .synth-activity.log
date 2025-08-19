@@ -631,3 +631,4 @@
 2025-08-07 docs: note deployment caveat
 2025-08-16 refactor: simplify module wiring
 2025-08-18 fix: patch edge case in config
+2025-08-19 chore: tidy project layout
