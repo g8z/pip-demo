@@ -633,3 +633,4 @@
 2025-08-18 fix: patch edge case in config
 2025-08-19 chore: tidy project layout
 2025-08-19 chore: housekeeping
+2025-08-19 build: adjust tooling scripts
