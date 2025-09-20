@@ -642,3 +642,4 @@
 2025-09-09 chore: sync local changes
 2025-09-09 build: adjust tooling scripts
 2025-09-14 chore: housekeeping
+2025-09-20 fix: patch edge case in config
