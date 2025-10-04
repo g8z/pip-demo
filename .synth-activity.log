@@ -646,3 +646,4 @@
 2025-09-20 chore: sync local changes
 2025-09-21 test: add coverage for helper
 2025-09-25 chore: sync local changes
+2025-10-04 refactor: extract shared utility
