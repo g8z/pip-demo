@@ -651,3 +651,4 @@
 2025-10-07 chore: housekeeping
 2025-10-12 docs: note deployment caveat
 2025-10-12 chore: housekeeping
+2025-10-13 refactor: simplify module wiring
