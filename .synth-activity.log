@@ -655,3 +655,4 @@
 2025-10-15 build: adjust tooling scripts
 2025-10-15 build: adjust tooling scripts
 2025-10-24 docs: clarify setup steps
+2025-10-28 fix: guard null reference
