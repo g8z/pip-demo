@@ -657,3 +657,4 @@
 2025-10-24 docs: clarify setup steps
 2025-10-28 fix: guard null reference
 2025-10-31 fix: guard null reference
+2025-10-31 refactor: extract shared utility
