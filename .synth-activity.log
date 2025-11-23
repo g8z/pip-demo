@@ -663,3 +663,4 @@
 2025-11-06 fix: guard null reference
 2025-11-14 fix: guard null reference
 2025-11-21 refactor: simplify module wiring
+2025-11-23 refactor: simplify module wiring
