@@ -667,3 +667,4 @@
 2025-11-23 refactor: extract shared utility
 2025-11-23 style: format sources
 2025-11-25 fix: guard null reference
+2025-11-26 style: format sources
