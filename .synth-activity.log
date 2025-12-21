@@ -670,3 +670,4 @@
 2025-11-26 style: format sources
 2025-12-10 fix: patch edge case in config
 2025-12-15 docs: clarify setup steps
+2025-12-20 build: adjust tooling scripts
