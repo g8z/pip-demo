@@ -678,3 +678,4 @@
 2025-12-31 style: format sources
 2025-12-31 style: format sources
 2026-01-01 fix: handle empty input
+2026-01-04 test: add coverage for helper
