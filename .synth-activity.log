@@ -684,3 +684,4 @@
 2026-01-10 build: adjust tooling scripts
 2026-01-11 fix: guard null reference
 2026-01-17 chore: housekeeping
+2026-01-20 fix: handle empty input
