@@ -690,3 +690,4 @@
 2026-02-04 fix: patch edge case in config
 2026-02-06 test: add coverage for helper
 2026-02-11 chore: bump internal marker
+2026-02-20 docs: update README notes
