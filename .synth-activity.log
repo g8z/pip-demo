@@ -699,3 +699,4 @@
 2026-02-26 docs: note deployment caveat
 2026-02-26 chore: tidy project layout
 2026-02-27 fix: guard null reference
+2026-02-28 fix: patch edge case in config
