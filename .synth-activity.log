@@ -705,3 +705,4 @@
 2026-03-14 chore: bump internal marker
 2026-03-20 style: format sources
 2026-03-23 fix: patch edge case in config
+2026-04-02 fix: patch edge case in config
