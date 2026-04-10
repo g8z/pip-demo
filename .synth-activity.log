@@ -710,3 +710,4 @@
 2026-04-06 refactor: extract shared utility
 2026-04-06 chore: bump internal marker
 2026-04-07 fix: handle empty input
+2026-04-09 test: add coverage for helper
