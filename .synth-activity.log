@@ -716,3 +716,4 @@
 2026-04-17 fix: handle empty input
 2026-04-17 chore: housekeeping
 2026-04-18 fix: guard null reference
+2026-04-23 chore: tidy project layout
