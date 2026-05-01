@@ -723,3 +723,4 @@
 2026-04-28 fix: handle empty input
 2026-04-29 docs: clarify setup steps
 2026-04-29 fix: guard null reference
+2026-04-30 build: adjust tooling scripts
