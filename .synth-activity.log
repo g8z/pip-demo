@@ -724,3 +724,4 @@
 2026-04-29 docs: clarify setup steps
 2026-04-29 fix: guard null reference
 2026-04-30 build: adjust tooling scripts
+2026-05-02 refactor: extract shared utility
