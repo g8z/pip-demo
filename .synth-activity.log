@@ -728,3 +728,4 @@
 2026-05-03 docs: clarify setup steps
 2026-05-04 chore: housekeeping
 2026-05-07 fix: patch edge case in config
+2026-05-09 refactor: extract shared utility
