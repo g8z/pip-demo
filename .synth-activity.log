@@ -730,3 +730,4 @@
 2026-05-07 fix: patch edge case in config
 2026-05-09 refactor: extract shared utility
 2026-05-11 style: format sources
+2026-05-20 fix: patch edge case in config
