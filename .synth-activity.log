@@ -738,3 +738,4 @@
 2026-06-04 chore: tidy project layout
 2026-06-06 refactor: extract shared utility
 2026-06-08 fix: guard null reference
+2026-06-08 docs: note deployment caveat
